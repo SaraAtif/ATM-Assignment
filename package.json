@@ -1,9 +1,10 @@
 {
-  "name": "atm",
+  "name": "sara_atif-atm_machine",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "This is an ATM Machine with typescript, node.js & inquirer",
+  "main": "main.js",
   "type": "module",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
